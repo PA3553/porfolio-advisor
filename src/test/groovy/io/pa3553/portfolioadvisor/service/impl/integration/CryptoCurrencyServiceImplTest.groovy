@@ -16,9 +16,6 @@ class CryptoCurrencyServiceImplTest extends Specification
 
     def cleanup()
     {
-//        wishListRepository.deleteAll()
-//        wishListCryptoCurrencyRepository.deleteAll()
-//        cryptoCurrencyRepository.deleteAll()
     }
 
     def "test createCryptoCurrency"() {
